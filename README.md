@@ -32,7 +32,7 @@ Solayer Checker — это Python-приложение, которое позв�
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/fridayqq/solayer_checker
    cd solayer_checker
    ```
 
