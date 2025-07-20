@@ -1,0 +1,8 @@
+{
+    "delay_between_wallets": 3.0,
+    "delay_random_range": 1.5,
+    "max_retries": 5,
+    "retry_delay_base": 10.0,
+    "retry_delay_multiplier": 1.5,
+    "request_timeout": 45.0
+}
